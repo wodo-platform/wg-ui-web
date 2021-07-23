@@ -1,2 +1,26 @@
-# wodo-web
-Wodo web module for web portal implementation. Only single page application codes are included in this module
+# Wedo Web
+
+This repository includes single page application client side implementation
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
