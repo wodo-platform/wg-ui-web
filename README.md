@@ -1,4 +1,4 @@
-# Wedo Web
+# Wodo Gaming Web Interface
 
 This repository includes single page application client side implementation
 

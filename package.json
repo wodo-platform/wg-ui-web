@@ -1,6 +1,6 @@
 {
-    "name": "wodo",
-    "version": "0.1.0",
+    "name": "wg-ui-web",
+    "version": "1.0.0",
     "private": true,
     "scripts": {
         "serve": "vue-cli-service serve",
@@ -44,7 +44,28 @@
         "vuex": "^3.6.2",
         "vuex-module-decorators": "^0.16.1",
         "vuex-persistedstate": "^4.0.0-beta.3",
-        "zone.js": "^0.8.29"
+        "zone.js": "^0.8.29",
+        "@vue/cli-service": "~4.2.0",
+        "@vue/cli-plugin-babel": "~4.2.0",
+        "@vue/cli-plugin-eslint": "~4.2.0",
+        "@vue/cli-plugin-pwa": "~4.2.0",
+        "@vue/cli-plugin-router": "~4.2.0",
+        "@vue/cli-plugin-typescript": "~4.2.0",
+        "@vue/cli-plugin-unit-jest": "~4.2.0",
+        "@vue/cli-plugin-vuex": "~4.2.0",
+        "vue-template-compiler": "^2.6.11",
+        "@vue/eslint-config-prettier": "^6.0.0",
+        "@vue/eslint-config-typescript": "^5.0.1",
+        "eslint": "^6.7.2",
+        "eslint-plugin-prettier": "^3.1.1",
+        "eslint-plugin-simple-import-sort": "^5.0.2",
+        "eslint-plugin-vue": "^6.1.2",
+        "@types/dompurify": "^2.0.1",
+        "@types/jest": "^24.0.19",
+        "@types/lockr": "^0.8.6",
+        "@types/marked": "^0.7.3",
+        "@typescript-eslint/eslint-plugin": "^2.18.0",
+        "@typescript-eslint/parser": "^2.18.0"
     },
     "devDependencies": {
         "@types/dompurify": "^2.0.1",
