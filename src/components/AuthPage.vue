@@ -34,7 +34,7 @@
                   v-model="email"
                   class="form-control form-control-lg"
                   type="text"
-                  placeholder="serhat.tanrikut@gmail.com"
+                  placeholder="aaa.bbbb@gmail.com"
                   required="true"
                 />
               </fieldset>
@@ -43,7 +43,7 @@
                   v-model="password"
                   class="form-control form-control-lg"
                   type="password"
-                  placeholder="serhat"
+                  placeholder="aaaa"
                   required="true"
                 />
               </fieldset>

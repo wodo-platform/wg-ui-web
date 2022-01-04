@@ -8,9 +8,9 @@ const USER_PATH = "/user";
 const USERS_PATH = "/users";
 
 const user : IUser = {
-  email: 'serhat.tanrikut@gmail.com',
+  email: 'aaaa.tanrikut@gmail.com',
   token: 'sdfsdfsfs234dsf',
-  username: 'serhatt',
+  username: 'aaaa',
   bio: 'comp eng',
   image: null,
   wallets: null

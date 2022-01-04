@@ -33,7 +33,7 @@ export const iwalletMock : IWallet = {
 }
 
 export const iprofileMock: IProfile = {
-    username: 'serhatt',
+    username: 'aaaaa',
     bio: 'comoputer enginner',
     image: null,
     following: true
